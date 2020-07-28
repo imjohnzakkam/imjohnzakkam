@@ -1,19 +1,19 @@
 ### Hey 👋, I'm John Zakkam
 
-<a href="https://www.linkedin.com/in/johnzakkam/">
+<a href="https://www.linkedin.com/in/johnzakkam/" target="_blank">
   <img align="left" alt="John's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" />
 </a>
-<a href="https://codeforces.com/profile/imreallyjohn">
+<a href="https://codeforces.com/profile/imreallyjohn" target="_blank">
   <img align="left" alt="CFe" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codeforces.svg" />
 </a>
 </a>
-<a href="https://www.codechef.com/users/imreally_john">
+<a href="https://www.codechef.com/users/imreally_john" target="_blank">
   <img align="left" alt="CodeChef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" />
 </a>
-<a href="https://www.instagram.com/johnzakkam2592/">
+<a href="https://www.instagram.com/johnzakkam2592/" target="_blank">
   <img align="left" alt="John's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/profile.php?id=100029428597945">
+<a href="https://www.facebook.com/profile.php?id=100029428597945" target="_blank">
   <img align="left" alt="John's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
