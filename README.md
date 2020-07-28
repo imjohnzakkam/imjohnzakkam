@@ -32,7 +32,7 @@ Hi there, I'm **John Zakkam**, an **Open Source Enthusiast** and a (trying to be
 - 💼 I’m pursuing a Bachelor's degree in Computer Science and Engineering;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via ced18i059@iiitdm.ac.in to reach me.
-- 📝 See my [Curriculum Vitae](blob:null/3248b585-76d0-4290-bb95-6489913d2987) to get more info.
+- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/19tyz9HQJTQpbqC9MdqrOc8UU993skrzt/view?usp=sharing) to get more info.
 
 
 **Languages and Tools:**  
