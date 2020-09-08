@@ -48,4 +48,6 @@ Hi there, I'm **John Zakkam**, an **Open Source Enthusiast** and a (trying to be
 
 [![John's github stats](https://github-readme-stats.vercel.app/api?username=imjohnzakkam)](https://github.com/imjohnzakkam/github-readme-stats)
 
+![](https://komarev.com/ghpvc/?username=imjohnzakkam&style=flat-square)
+
 ⭐️ From [John Zakkam](https://github.com/imjohnzakkam)
