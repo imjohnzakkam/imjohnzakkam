@@ -20,16 +20,16 @@
 <br />
 <br />
 
-Hi there, I'm **John Zakkam**, a **Machine Learning Researcher** and a **Deep Learning Enthusiast** and of course a **Computer Science student** from India.
+Hi there, I'm **John Zakkam**, a **Deep Learning Researcher** and a **Machine Learning Enthusiast** and of course a **Computer Science student** from India.
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently interested in Machine Learning, Deep Learning and Computer Vision
+- 👨🏽‍💻 I’m currently interested in Deep Learning, Computer Vision specifically
 - 🌱 I’m currently enjoying researching about new Deep Neural Networks  
-- 🤔 My interests are with exploring new architectures in image segmentation and classification
-- 💼 I’m pursuing a Bachelor's degree in Computer Science
+- 🤔 My interests are with exploring new architectures in GANs, object detectors and oh yeah, image segmentation models too.
+- 💼 I’m pursuing a Dual Degree (B.Tech + M.Tech) degree in Computer Science at IIIT Chennai
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via ced18i059@iiitdm.ac.in to reach me.
 - 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/11c6zpb09Uke9q4SmQqpZFff1RUdXaoS3/view?usp=sharing) to get more info.
